@@ -1,2 +1,11 @@
 * test
 ** not a test
+* parallel computation   
+** scp to farbers
+** land to farbers
+** compile on farbers 
+** mpirun
+ 
+   #+begin_src bash
+   mpirun -np 4 funwave_vessel
+   #+end_src
