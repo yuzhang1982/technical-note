@@ -15,10 +15,10 @@
    =bb=, *bold* /it/ 
    
 itemize 
--first
+- first
 
--secxd
+- secxd
 
 df
 
--third
+- third
