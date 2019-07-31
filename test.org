@@ -6,6 +6,19 @@
 ** compile on farbers 
 ** mpirun
  
+   some test
+
    #+begin_src bash
    mpirun -np 4 funwave_vessel
    #+end_src
+
+   =bb=, *bold* /it/ 
+   
+itemize 
+-first
+
+-secxd
+
+df
+
+-third
